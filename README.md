@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0518-coin-change-ii) |
+| [0994-rotting-oranges](https://github.com/Pogi-hub/LeetCodev1/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pogi-hub/LeetCodev1/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Pogi-hub/LeetCodev1/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Pogi-hub/LeetCodev1/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Pogi-hub/LeetCodev1/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Pogi-hub/LeetCodev1/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
