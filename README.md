@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pogi-hub/LeetCodev1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Pogi-hub/LeetCodev1/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pogi-hub/LeetCodev1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Pogi-hub/LeetCodev1/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Pogi-hub/LeetCodev1/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Pogi-hub/LeetCodev1/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Pogi-hub/LeetCodev1/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
