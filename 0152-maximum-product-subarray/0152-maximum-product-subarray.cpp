@@ -1,6 +1,22 @@
 class Solution {
 public:
-    int maxProduct(vector<int>& nums) {
+    int method2(vector<int> &nums){
+        int mx=nums[0];
+        int mn=nums[0];
+        int ans=nums[0];
+
+        for(int i=1;i<nums.size();i++){
+            if(nums[i]<0) swap(mx,mn);
+
+            mn=min(nums[i],mn*nums[i]);
+            mx=max(nums[i],mx*nums[i]);
+
+            ans=max(ans,mx);
+        }
+
+        return ans;
+    }
+    int method1(vector<int>& nums){
         int n = nums.size();
         int pre = 1, suff = 1;
         int ans = INT_MIN;
@@ -21,6 +37,9 @@ public:
 
         // Return the final answer
         return ans;
+    }
+    int maxProduct(vector<int>& nums) {
+        return method2(nums);
     }
     
 };
