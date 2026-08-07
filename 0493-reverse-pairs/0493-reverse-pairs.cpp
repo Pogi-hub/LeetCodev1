@@ -1,14 +1,14 @@
 class Solution {
 public:
-    int reverse_pair_counter(vector<int> &nums,int lo,int mid,int hi){
-        int j=mid+1,ans=0;
-        for(int i=lo;i<=mid;i++){
-            while(j<=hi && (long long)nums[i]>(long long)2*nums[j]) j++;
-            ans+=(j-(mid+1));
+    int reverse_pair_counter(vector<int> &arr1,vector<int> &arr2,int n1,int n2){
+        int j=0,ans=0;
+        for(int i=0;i<n1;i++){
+            while(j<n2 && (long long)arr1[i]>(long long)2*arr2[j]) j++;
+            ans+=j;
         }
         return ans;
     }
-    void merge(vector<int> &nums,int lo,int mid,int hi){
+    void merge(vector<int> &nums,int lo,int mid,int hi,int &count){
         vector<int> arr1,arr2;
         for(int i=lo;i<=mid;i++){
             arr1.push_back(nums[i]);
@@ -20,6 +20,8 @@ public:
         int n1=arr1.size(); int n2=arr2.size();
         int i=0,j=0,k=lo;
 
+        count+=reverse_pair_counter(arr1,arr2,n1,n2);
+
         while(i<n1 && j<n2){
             if(arr1[i]<arr2[j]) nums[k++]=arr1[i++];
             else nums[k++]=arr2[j++];
@@ -28,21 +30,21 @@ public:
         while(i<n1) nums[k++]=arr1[i++];
         while(j<n2) nums[k++]=arr2[j++];
     }
-    int mergesort(vector<int> &nums ,int lo ,int hi){
-        int cnt=0;
-        if(lo>=hi) return cnt;
+    void mergesort(vector<int> &nums ,int lo ,int hi,int &count){
+        if(lo>=hi) return;
+
         int mid=lo+(hi-lo)/2;
 
-        cnt+=mergesort(nums,lo,mid);
-        cnt+=mergesort(nums,mid+1,hi);
-        cnt+=reverse_pair_counter(nums,lo,mid,hi);
+        mergesort(nums,lo,mid,count);
+        mergesort(nums,mid+1,hi,count);
 
-        merge(nums,lo,mid,hi);
-
-        return cnt;
+        merge(nums,lo,mid,hi,count);
     }
     
     int reversePairs(vector<int>& nums) {
-        return mergesort(nums,0,nums.size()-1);
+        int count=0;
+        mergesort(nums,0,nums.size()-1,count);
+
+        return count;
     }
 };
