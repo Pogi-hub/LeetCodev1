@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pogi-hub/LeetCodev1/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Pogi-hub/LeetCodev1/tree/master/0200-number-of-islands) |
+| [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Pogi-hub/LeetCodev1/tree/master/0733-flood-fill) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pogi-hub/LeetCodev1/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Pogi-hub/LeetCodev1/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
@@ -157,4 +159,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
