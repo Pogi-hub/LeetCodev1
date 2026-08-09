@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Pogi-hub/LeetCodev1/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Pogi-hub/LeetCodev1/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Pogi-hub/LeetCodev1/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0746-min-cost-climbing-stairs) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pogi-hub/LeetCodev1/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pogi-hub/LeetCodev1/tree/master/0992-subarrays-with-k-different-integers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Pogi-hub/LeetCodev1/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Pogi-hub/LeetCodev1/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pogi-hub/LeetCodev1/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Hash Table
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pogi-hub/LeetCodev1/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Pogi-hub/LeetCodev1/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Pogi-hub/LeetCodev1/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/Pogi-hub/LeetCodev1/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pogi-hub/LeetCodev1/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/1091-shortest-path-in-binary-matrix) |
