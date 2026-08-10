@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pogi-hub/LeetCodev1/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Pogi-hub/LeetCodev1/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pogi-hub/LeetCodev1/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Pogi-hub/LeetCodev1/tree/master/0740-delete-and-earn) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pogi-hub/LeetCodev1/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pogi-hub/LeetCodev1/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Pogi-hub/LeetCodev1/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Pogi-hub/LeetCodev1/tree/master/0733-flood-fill) |
@@ -202,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pogi-hub/LeetCodev1/tree/master/0787-cheapest-flights-within-k-stops) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
