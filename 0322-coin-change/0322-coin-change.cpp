@@ -33,19 +33,24 @@ public:
         // return ans;
 
         //recurse 2 approach
-        vector<int> dp (amount+1,-1);
-        if(amount==0) return 0;
-        int ans=recurse2(coins,0,amount,dp);
-        if(ans==1e9) return -1;
-        return ans;
-    //     int n=nums.size();
+        vector<int> dp (amount+1,1e9);
+        // if(amount==0) return 0;
+        // int ans=recurse2(coins,0,amount,dp);
+        // if(ans==1e9) return -1;
+        // return ans;
+        int n=coins.size();
         
+        dp[0]=0;
 
-    //     for(int i=0;i<n;i++){
-    //         for(int sum=0;sum<=amount;sum++){
+        for(int sum=0;sum<=amount;sum++){
+            for(int i=0;i<n;i++){
+                if (coins[i] <= sum) 
+                dp[sum] = min(dp[sum], 1 + dp[sum-coins[i]]);
+            }
+        }
 
-    //         }
-    //     }
+        if(dp[amount]==1e9) return -1;
+        return dp[amount];
         
     }
 };
