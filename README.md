@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0063-unique-paths-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pogi-hub/LeetCodev1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Pogi-hub/LeetCodev1/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pogi-hub/LeetCodev1/tree/master/0198-house-robber) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0063-unique-paths-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pogi-hub/LeetCodev1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pogi-hub/LeetCodev1/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0322-coin-change) |
