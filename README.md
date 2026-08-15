@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pogi-hub/LeetCodev1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/Pogi-hub/LeetCodev1/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Pogi-hub/LeetCodev1/tree/master/1765-map-of-highest-peak) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pogi-hub/LeetCodev1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1110-delete-nodes-and-return-forest](https://github.com/Pogi-hub/LeetCodev1/tree/master/1110-delete-nodes-and-return-forest) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pogi-hub/LeetCodev1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
