@@ -12,18 +12,18 @@
 class Solution {
 public:
     vector<TreeNode*> ans;
-    void dfs(TreeNode* &root, unordered_set<int> &st, bool isRoot){
-        if(!root) return;
+    TreeNode* dfs(TreeNode* root, unordered_set<int> &st, bool isRoot){
+        if(!root) return nullptr;
 
         bool deleted=st.count(root->val);
 
         if(isRoot && !deleted) ans.push_back(root);
 
-        dfs(root->left,st,deleted);
-        dfs(root->right,st,deleted);
+        root->left=dfs(root->left,st,deleted);
+        root->right=dfs(root->right,st,deleted);
 
-        if(deleted) root=nullptr;
-        return;
+        if(deleted) return nullptr;
+        return root;
     }
     vector<TreeNode*> delNodes(TreeNode* root, vector<int>& to_delete) {
         unordered_set<int> st(to_delete.begin(),to_delete.end());
