@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Pogi-hub/LeetCodev1/tree/master/1110-delete-nodes-and-return-forest) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pogi-hub/LeetCodev1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/1463-cherry-pickup-ii) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Pogi-hub/LeetCodev1/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Pogi-hub/LeetCodev1/tree/master/1765-map-of-highest-peak) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pogi-hub/LeetCodev1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Pogi-hub/LeetCodev1/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Pogi-hub/LeetCodev1/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pogi-hub/LeetCodev1/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Pogi-hub/LeetCodev1/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pogi-hub/LeetCodev1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pogi-hub/LeetCodev1/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pogi-hub/LeetCodev1/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pogi-hub/LeetCodev1/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
@@ -279,4 +282,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pogi-hub/LeetCodev1/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
