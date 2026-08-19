@@ -298,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Pogi-hub/LeetCodev1/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
