@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Pogi-hub/LeetCodev1/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Pogi-hub/LeetCodev1/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Pogi-hub/LeetCodev1/tree/master/0741-cherry-pickup) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pogi-hub/LeetCodev1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pogi-hub/LeetCodev1/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Pogi-hub/LeetCodev1/tree/master/0127-word-ladder) |
+| [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Pogi-hub/LeetCodev1/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pogi-hub/LeetCodev1/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pogi-hub/LeetCodev1/tree/master/0992-subarrays-with-k-different-integers) |
@@ -202,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pogi-hub/LeetCodev1/tree/master/0992-subarrays-with-k-different-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pogi-hub/LeetCodev1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Pogi-hub/LeetCodev1/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0860-lemonade-change) |
 ## Tree
 |  |
@@ -304,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Pogi-hub/LeetCodev1/tree/master/0175-combine-two-tables) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
