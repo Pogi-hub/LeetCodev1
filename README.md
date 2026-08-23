@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Pogi-hub/LeetCodev1/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pogi-hub/LeetCodev1/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pogi-hub/LeetCodev1/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pogi-hub/LeetCodev1/tree/master/0992-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Pogi-hub/LeetCodev1/tree/master/1110-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pogi-hub/LeetCodev1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Pogi-hub/LeetCodev1/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pogi-hub/LeetCodev1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pogi-hub/LeetCodev1/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pogi-hub/LeetCodev1/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Pogi-hub/LeetCodev1/tree/master/1020-number-of-enclaves) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Pogi-hub/LeetCodev1/tree/master/1110-delete-nodes-and-return-forest) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Pogi-hub/LeetCodev1/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pogi-hub/LeetCodev1/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pogi-hub/LeetCodev1/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Pogi-hub/LeetCodev1/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pogi-hub/LeetCodev1/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Pogi-hub/LeetCodev1/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Pogi-hub/LeetCodev1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Pogi-hub/LeetCodev1/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pogi-hub/LeetCodev1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pogi-hub/LeetCodev1/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pogi-hub/LeetCodev1/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Pogi-hub/LeetCodev1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pogi-hub/LeetCodev1/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pogi-hub/LeetCodev1/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
