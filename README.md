@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Pogi-hub/LeetCodev1/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Pogi-hub/LeetCodev1/tree/master/1020-number-of-enclaves) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Pogi-hub/LeetCodev1/tree/master/1110-delete-nodes-and-return-forest) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Pogi-hub/LeetCodev1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Pogi-hub/LeetCodev1/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Pogi-hub/LeetCodev1/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pogi-hub/LeetCodev1/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Pogi-hub/LeetCodev1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Pogi-hub/LeetCodev1/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Pogi-hub/LeetCodev1/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Pogi-hub/LeetCodev1/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Pogi-hub/LeetCodev1/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pogi-hub/LeetCodev1/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Pogi-hub/LeetCodev1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Pogi-hub/LeetCodev1/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Pogi-hub/LeetCodev1/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pogi-hub/LeetCodev1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pogi-hub/LeetCodev1/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Pogi-hub/LeetCodev1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pogi-hub/LeetCodev1/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pogi-hub/LeetCodev1/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pogi-hub/LeetCodev1/tree/master/1976-number-of-ways-to-arrive-at-destination) |
