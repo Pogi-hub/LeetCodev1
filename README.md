@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pogi-hub/LeetCodev1/tree/master/0007-reverse-integer) |
+| [0670-maximum-swap](https://github.com/Pogi-hub/LeetCodev1/tree/master/0670-maximum-swap) |
 ## Trie
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/Pogi-hub/LeetCodev1/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0860-lemonade-change) |
 ## Tree
 |  |
