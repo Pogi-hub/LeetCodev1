@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Pogi-hub/LeetCodev1/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pogi-hub/LeetCodev1/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pogi-hub/LeetCodev1/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Pogi-hub/LeetCodev1/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -371,4 +373,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pogi-hub/LeetCodev1/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
