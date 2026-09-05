@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pogi-hub/LeetCodev1/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pogi-hub/LeetCodev1/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pogi-hub/LeetCodev1/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pogi-hub/LeetCodev1/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pogi-hub/LeetCodev1/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Pogi-hub/LeetCodev1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Pogi-hub/LeetCodev1/tree/master/1021-remove-outermost-parentheses) |
@@ -372,6 +375,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pogi-hub/LeetCodev1/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Pogi-hub/LeetCodev1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pogi-hub/LeetCodev1/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
