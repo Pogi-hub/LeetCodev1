@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pogi-hub/LeetCodev1/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/Pogi-hub/LeetCodev1/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pogi-hub/LeetCodev1/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pogi-hub/LeetCodev1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pogi-hub/LeetCodev1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/Pogi-hub/LeetCodev1/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Pogi-hub/LeetCodev1/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Pogi-hub/LeetCodev1/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Pogi-hub/LeetCodev1/tree/master/0127-word-ladder) |
