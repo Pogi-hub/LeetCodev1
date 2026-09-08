@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pogi-hub/LeetCodev1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Pogi-hub/LeetCodev1/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Pogi-hub/LeetCodev1/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/Pogi-hub/LeetCodev1/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Pogi-hub/LeetCodev1/tree/master/0496-next-greater-element-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pogi-hub/LeetCodev1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Pogi-hub/LeetCodev1/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Pogi-hub/LeetCodev1/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pogi-hub/LeetCodev1/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0518-coin-change-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Pogi-hub/LeetCodev1/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Pogi-hub/LeetCodev1/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/Pogi-hub/LeetCodev1/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pogi-hub/LeetCodev1/tree/master/1004-max-consecutive-ones-iii) |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Pogi-hub/LeetCodev1/tree/master/0044-wildcard-matching) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Pogi-hub/LeetCodev1/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
