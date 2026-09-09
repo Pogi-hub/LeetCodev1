@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2595-number-of-even-and-odd-bits](https://github.com/Pogi-hub/LeetCodev1/tree/master/2595-number-of-even-and-odd-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pogi-hub/LeetCodev1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pogi-hub/LeetCodev1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bellman–Ford Algorithm
