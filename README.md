@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pogi-hub/LeetCodev1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Pogi-hub/LeetCodev1/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Pogi-hub/LeetCodev1/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Pogi-hub/LeetCodev1/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Pogi-hub/LeetCodev1/tree/master/0162-find-peak-element) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pogi-hub/LeetCodev1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pogi-hub/LeetCodev1/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Pogi-hub/LeetCodev1/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Pogi-hub/LeetCodev1/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/Pogi-hub/LeetCodev1/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Pogi-hub/LeetCodev1/tree/master/0740-delete-and-earn) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pogi-hub/LeetCodev1/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Pogi-hub/LeetCodev1/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pogi-hub/LeetCodev1/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pogi-hub/LeetCodev1/tree/master/0547-number-of-provinces) |
