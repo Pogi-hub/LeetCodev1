@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Pogi-hub/LeetCodev1/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Pogi-hub/LeetCodev1/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Pogi-hub/LeetCodev1/tree/master/0827-making-a-large-island) |
+| [0846-hand-of-straights](https://github.com/Pogi-hub/LeetCodev1/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pogi-hub/LeetCodev1/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pogi-hub/LeetCodev1/tree/master/0992-subarrays-with-k-different-integers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pogi-hub/LeetCodev1/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Pogi-hub/LeetCodev1/tree/master/0740-delete-and-earn) |
+| [0846-hand-of-straights](https://github.com/Pogi-hub/LeetCodev1/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pogi-hub/LeetCodev1/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pogi-hub/LeetCodev1/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pogi-hub/LeetCodev1/tree/master/0992-subarrays-with-k-different-integers) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pogi-hub/LeetCodev1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/Pogi-hub/LeetCodev1/tree/master/0670-maximum-swap) |
+| [0846-hand-of-straights](https://github.com/Pogi-hub/LeetCodev1/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Pogi-hub/LeetCodev1/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pogi-hub/LeetCodev1/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pogi-hub/LeetCodev1/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Pogi-hub/LeetCodev1/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Pogi-hub/LeetCodev1/tree/master/0846-hand-of-straights) |
 ## Bipartite Graph
 |  |
 | ------- |
